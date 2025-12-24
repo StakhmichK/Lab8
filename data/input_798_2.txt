@@ -1,0 +1,6 @@
+Marie Curie 9 88
+Isaac Newton 9 91
+Galileo Galilei 10 95
+James Maxwell 10 95
+Nikola Tesla 11 97
+Albert Michelson 11 92
