@@ -1,5 +1,5 @@
-input_file = "data/input_799_3.txt"
-output_file = "data/output_799_3.txt"
+input_file = "data/input_799_2.txt"
+output_file = "data/output_799_2.txt"
 
 participants = []
 

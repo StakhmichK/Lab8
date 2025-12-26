@@ -1,6 +1,6 @@
 Alan Turing 9 100
-Kurt Godel 9 100
+Kurt Godel 9 93
 John von Neumann 10 99
 Blaise Pascal 10 97
 Ada Lovelace 11 98
-Grace Hopper 11 98
+Grace Hopper 11 90
