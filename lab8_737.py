@@ -1,6 +1,6 @@
 import string
 
-text = input().lower()
+text = input("Enter your statement: ").lower()
 alphabet = string.ascii_lowercase
 
 result = True
