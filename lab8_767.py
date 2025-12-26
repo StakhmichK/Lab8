@@ -8,5 +8,3 @@ def open_file(filename):
     finally:
         print("Done")
 open_file("data/input_767_1.txt")
-open_file("data/input_767_2.txt")
-open_file("data/input_767_3.txt")
